@@ -1,6 +1,6 @@
-# ArgoCD-in-one-shot
+# ArgoCD-Notes
 
-ArgoCD In One Shot is your one-stop solution to learn and implement ArgoCD from Zero to Hero in DevOps and other ArgoProj.
+This ArgoCD Notes is your one-stop solution to learn and implement ArgoCD from Zero to Hero in DevOps and other ArgoProj.
 
 ## Repository Structure & Chapters
 
@@ -101,13 +101,3 @@ This repository is organized into chapters, each with hands-on examples, manifes
 ## Contributing
 
 Contributions, suggestions, and improvements are welcome! Please open an issue or submit a pull request.
-
----
-
-## Contact
-
-For questions, reach out via [GitHub Issues](https://github.com/LondheShubham153/argocd-in-one-shot/issues).
-
-Linkedin: [Shubham Londhe](https://linkedin.com/in/shubhamlondhe1996)
-
-Discord: [TrainWithShubham](https://discord.gg/wmtaqTUmhW)
